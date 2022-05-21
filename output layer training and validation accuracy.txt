@@ -1,0 +1,11 @@
+Train for 100 steps, validate for 20 steps
+Epoch 1/5
+100/100 - 292s - loss: 0.3991 - accuracy: 0.8180 - val_loss: 0.1018 - val_accuracy: 0.9700
+Epoch 2/5
+100/100 - 298s - loss: 0.1027 - accuracy: 0.9640 - val_loss: 0.0665 - val_accuracy: 0.9800
+Epoch 3/5
+100/100 - 303s - loss: 0.0682 - accuracy: 0.9780 - val_loss: 0.0567 - val_accuracy: 0.9750
+Epoch 4/5
+100/100 - 307s - loss: 0.0478 - accuracy: 0.9870 - val_loss: 0.0540 - val_accuracy: 0.9750
+Epoch 5/5
+100/100 - 306s - loss: 0.0372 - accuracy: 0.9890 - val_loss: 0.0528 - val_accuracy: 0.9750
